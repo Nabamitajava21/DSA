@@ -1,7 +1,51 @@
-# DSA
-Data Structures & Algorithms in Java - LeetCode Solutions
+<div align="center">
 
-Welcome to my **Data Structures and Algorithms (DSA)** repository.  
-This repository contains my solutions to **LeetCode problems** implemented in **Java**, covering important DSA concepts required for coding interviews and competitive programming.
+# 🧠 Coding Solutions
 
-The main goal of this repository is to improve problem-solving skills, understand algorithmic patterns, and maintain a consistent coding practice journey. 
+![Total Solved](https://img.shields.io/badge/Total_Solved-13-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-8--1--2026-green?style=for-the-badge)
+
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
+
+</div>
+
+---
+
+## 📊 Stats
+
+| Difficulty | Solved |
+|:---:|:---:|
+| 🟢 Easy | **2** |
+| 🟡 Medium | **9** |
+| 🔴 Hard | **2** |
+| **Total** | **13** |
+
+## 🛠️ Languages
+
+| Language | Solutions |
+|:---:|:---:|
+| Java | **6** |
+| c_cpp | **5** |
+| SQL | **2** |
+
+## 📂 Repository Structure
+
+```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
+
+---
+
+<div align="center">
+
+*Last updated: 2026-08-01* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+
+</div>
