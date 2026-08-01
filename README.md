@@ -1,51 +1,78 @@
-<div align="center">
+# 🚀 LeetCode Solutions in Java
 
-# 🧠 Coding Solutions
+## 👋 About Me
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-13-blue?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
-![Last Synced](https://img.shields.io/badge/Last_Synced-8--1--2026-green?style=for-the-badge)
-
-> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
-
-</div>
+Hi! I'm **Nabamita Nath**, a B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning) student. This repository documents my journey of solving LeetCode problems in **Java** to strengthen my Data Structures and Algorithms (DSA) skills and prepare for software engineering interviews.
 
 ---
 
-## 📊 Stats
+## 📌 About This Repository
 
-| Difficulty | Solved |
-|:---:|:---:|
-| 🟢 Easy | **2** |
-| 🟡 Medium | **9** |
-| 🔴 Hard | **2** |
-| **Total** | **13** |
+This repository contains my Java solutions to LeetCode problems, covering a wide range of algorithmic concepts and coding patterns. Each solution is written with a focus on:
 
-## 🛠️ Languages
-
-| Language | Solutions |
-|:---:|:---:|
-| Java | **6** |
-| c_cpp | **5** |
-| SQL | **2** |
-
-## 📂 Repository Structure
-
-```
-📦 coding-solutions/
-├── leetcode/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-├── hackerrank/
-├── codechef/
-└── gfg/
-```
+* ✅ Clean and readable code
+* ✅ Efficient algorithms
+* ✅ Well-structured logic
+* ✅ Interview-oriented problem solving
 
 ---
 
-<div align="center">
+## 💻 Language
 
-*Last updated: 2026-08-01* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+* **Java**
 
-</div>
+---
+
+## 📚 Topics Covered
+
+* Arrays
+* Strings
+* HashMap & HashSet
+* Linked Lists
+* Stacks & Queues
+* Trees & Binary Trees
+* Binary Search Trees
+* Heaps & Priority Queues
+* Graphs
+* Recursion
+* Backtracking
+* Dynamic Programming
+* Greedy Algorithms
+* Binary Search
+* Sliding Window
+* Two Pointers
+* Bit Manipulation
+* Math
+
+---
+
+## 🎯 Objectives
+
+* Solve LeetCode problems consistently.
+* Strengthen DSA fundamentals.
+* Improve problem-solving and analytical thinking.
+* Prepare for coding interviews and online assessments.
+* Track my learning journey and progress.
+
+---
+
+## 📈 Repository Structure
+
+Each solution may include:
+
+* Problem Name
+* Java Solution
+* Time Complexity
+* Space Complexity
+* Approach/Explanation (for selected problems)
+
+---
+
+## 🤝 Connect With Me
+
+* **GitHub:** https://github.com/Nabamitajava21
+* **LinkedIn:** https://www.linkedin.com/in/nabamita-nath-64b5b9272
+
+---
+
+⭐ Thank you for visiting my repository! If you find it helpful, feel free to star the repository and follow my coding journey.
