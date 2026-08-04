@@ -97,6 +97,7 @@ This repository is maintained for learning purposes. Suggestions and improvement
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nabamitajava21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Nabamitajava21/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Nabamitajava21/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,4 +114,12 @@ This repository is maintained for learning purposes. Suggestions and improvement
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nabamitajava21/Leetcode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nabamitajava21/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nabamitajava21/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
