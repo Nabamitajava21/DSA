@@ -96,6 +96,7 @@ This repository is maintained for learning purposes. Suggestions and improvement
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nabamitajava21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Nabamitajava21/Leetcode/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +105,12 @@ This repository is maintained for learning purposes. Suggestions and improvement
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nabamitajava21/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Nabamitajava21/Leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Nabamitajava21/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
