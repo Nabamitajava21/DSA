@@ -1,51 +1,91 @@
-<div align="center">
 
-# 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-14-blue?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Streak-2_days-orange?style=for-the-badge)
-![Last Synced](https://img.shields.io/badge/Last_Synced-8--2--2026-green?style=for-the-badge)
+# 🧠🚀 LeetCode Solutions
 
-> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
+Welcome to my **LeetCode Solutions** repository!
 
-</div>
+This repository contains my solutions to LeetCode problems in multiple programming languages as I prepare for software engineering interviews and strengthen my Data Structures & Algorithms skills.
 
----
+## 📌 Languages Used
 
-## 📊 Stats
-
-| Difficulty | Solved |
-|:---:|:---:|
-| 🟢 Easy | **2** |
-| 🟡 Medium | **9** |
-| 🔴 Hard | **3** |
-| **Total** | **14** |
-
-## 🛠️ Languages
-
-| Language | Solutions |
-|:---:|:---:|
-| Java | **7** |
-| c_cpp | **5** |
-| SQL | **2** |
+* ☕ Java
+* 🐍 Python
+* ⚡ C++
 
 ## 📂 Repository Structure
 
+```text
+Leetcode/
+│
+├── DSA/
+│   ├── Array/
+│   │   ├── 0001_Two_Sum/
+│   │   │   ├── Java/
+│   │   │   ├── CPP/
+│   │   │   └── Python/
+│   │   ├── 0011_Container_With_Most_Water/
+│   │   └── ...
+│   │
+│   ├── String/
+│   ├── Linked_List/
+│   ├── Stack/
+│   ├── Queue/
+│   ├── Tree/
+│   ├── Graph/
+│   ├── Dynamic_Programming/
+│   └── ...
+│
+└── README.md
 ```
-📦 coding-solutions/
-├── leetcode/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-├── hackerrank/
-├── codechef/
-└── gfg/
-```
+
+## 🎯 Goals
+
+* Solve LeetCode problems consistently.
+* Improve problem-solving skills.
+* Master Data Structures and Algorithms.
+* Prepare for coding interviews and placement drives.
+* Maintain clean and optimized solutions.
+
+## 📖 Solution Format
+
+Each problem contains:
+
+* Problem Number
+* Problem Name
+* Java Solution
+* C++ Solution
+* Python Solution
+
+Whenever applicable, solutions also include:
+
+* Approach
+* Time Complexity
+* Space Complexity
+
+## 📈 Progress
+
+| Category            | Solved |
+| ------------------- | -----: |
+| Array               |      0 |
+| String              |      0 |
+| Linked List         |      0 |
+| Stack               |      0 |
+| Queue               |      0 |
+| Tree                |      0 |
+| Graph               |      0 |
+| Dynamic Programming |      0 |
+| Total               |      0 |
+
+> This table will be updated regularly as I solve more problems.
+
+## ⭐ Why this Repository?
+
+This repository serves as my personal DSA journal, documenting my learning journey while building strong problem-solving skills through consistent practice.
+
+## 🤝 Contributions
+
+This repository is maintained for learning purposes. Suggestions and improvements are always welcome.
 
 ---
 
-<div align="center">
-
-*Last updated: 2026-08-02* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
-
-</div>
+**Happy Coding! 🚀**
