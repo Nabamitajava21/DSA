@@ -131,4 +131,16 @@ This repository is maintained for learning purposes. Suggestions and improvement
 | ------- |
 | [0015-3sum](https://github.com/Nabamitajava21/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nabamitajava21/Leetcode/tree/master/0016-3sum-closest) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Nabamitajava21/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Nabamitajava21/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Nabamitajava21/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
