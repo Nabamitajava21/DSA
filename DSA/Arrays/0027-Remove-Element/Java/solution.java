@@ -1,10 +1,10 @@
 class Solution {
-    public int removeDuplicates(int[] nums) {
+    public int removeElement(int[] nums, int val) {
         //Nabamita
-        int i = 1;
+        int i = 0;
 
-        for (int j = 1; j < nums.length; j++) {
-            if (nums[j] != nums[j - 1]) {
+        for (int j = 0; j < nums.length; j++) {
+            if (nums[j] != val) {
                 nums[i] = nums[j];
                 i++;
             }
