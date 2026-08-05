@@ -101,6 +101,7 @@ This repository is maintained for learning purposes. Suggestions and improvement
 | [0015-3sum](https://github.com/Nabamitajava21/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nabamitajava21/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nabamitajava21/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nabamitajava21/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ This repository is maintained for learning purposes. Suggestions and improvement
 | [0015-3sum](https://github.com/Nabamitajava21/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nabamitajava21/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nabamitajava21/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nabamitajava21/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
